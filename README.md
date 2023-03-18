@@ -25,7 +25,7 @@ I am a <strong>front-end developer</strong> from Romania, who loves to code, lea
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/mariacristinaI/mariacristinaI)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mariacristinai.github.io/mariacristinaI)
 [![Author](https://img.shields.io/badge/Author-Maria%20Cristina%20Iosub-blue.svg)](https://github.com/mariacristinaI)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-20%20October%202022-yellow.svg)](https://github.com/mariacristinaI?tab=repositories)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-18%20March%202023-yellow.svg)](https://github.com/mariacristinaI?tab=repositories)
 
 It entails different websites/code snippets made from scratch for testing different features and functionalies. Not client-related projects.
 <br />
