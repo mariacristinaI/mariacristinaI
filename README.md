@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! Welcome, I'm Maria-Cristina</h1>
-I am a <strong>front-end developer</strong> from Romania, who loves to code, learn and play video games. <br />
-- 🌱  I’m currently working on becoming an active open source contributor and expanding my knowledge on web development technologies.
+<p >I'm a <strong>front-end developer</strong> based in Romania, with a love for coding, learning, and video games. </p>
+<p>🌱 Currently, I'm focused on becoming an active contributor to open source projects and expanding my expertise in web development technologies.</p>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -27,10 +27,9 @@ I am a <strong>front-end developer</strong> from Romania, who loves to code, lea
 [![Author](https://img.shields.io/badge/Author-Maria%20Cristina%20Iosub-blue.svg)](https://github.com/mariacristinaI)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-18%20March%202023-yellow.svg)](https://github.com/mariacristinaI?tab=repositories)
 
-It entails different websites/code snippets made from scratch for testing different features and functionalies. Not client-related projects.
-<br />
-The website serves as an online portfolio to showcase my web projects and résumé. <br />
-It features a theme mode with the option to switch between a cyberpunk colour scheme and one inspired by Windows 95 OS.
+Here, you'll find a collection of websites and code snippets that I've created from scratch for testing various features and functionalities, unrelated to client projects. This website serves as an online showcase of my web projects and résumé.
+
+🎨 Additionally, it features a unique theme mode that allows you to switch between a cyberpunk color scheme and a Windows 95 OS-inspired theme, adding a touch of creativity and personal customization to your browsing experience. Explore and enjoy!
 
 ## :fire: My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacristinaI&layout=compact&title_color=14c1c1&text_color=0D0D0D)](https://github.com/mariacristinaI/github-readme-stats)
