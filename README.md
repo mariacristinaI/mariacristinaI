@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hi! Welcome, I'm Maria-Cristina</h1>
-<p >I'm a <strong>front-end developer</strong> based in Romania, with a love for coding, learning, and video games. </p>
-<p>🌱 Currently, I'm focused on becoming an active contributor to open source projects and expanding my expertise in web development technologies.</p>
+<ul>
+  <li>I'm a <strong>front-end developer</strong> based in Romania, with a love for coding, learning, and video games. </li>
+  <li>🌱 Currently, I'm focused on becoming an active contributor to open source projects and expanding my expertise in web development technologies.</li>
+</ul>
 
 ## :hammer_and_wrench: Languages and Tools :
-<div>
+<div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
@@ -32,12 +34,17 @@ Here, you'll find a collection of websites and code snippets that I've created f
 🎨 Additionally, it features a unique theme mode that allows you to switch between a cyberpunk color scheme and a Windows 95 OS-inspired theme, adding a touch of creativity and personal customization to your browsing experience. Explore and enjoy!
 
 ## :fire: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacristinaI&layout=compact&title_color=14c1c1&text_color=0D0D0D)](https://github.com/mariacristinaI/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariacristinaI&text_color=0D0D0D&ring=B70E91&currStreakLabel=14c1c1)](https://git.io/streak-stats)
-
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacristinaI&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&title_color=14c1c1&text_color=0D0D0D&icon_color=14c1c1&custom_title=GitHub_Stats)
+<a href="https://github.com/mariacristinaI/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacristinaI&layout=compact&title_color=14c1c1&text_color=0D0D0D"/>
+</a>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariacristinaI&text_color=0D0D0D&ring=B70E91&currStreakLabel=14c1c1" />
+</a>
 
 <hr />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mariacristinaI/mariacristinaI)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mariacristinai/count.svg" />
+</p>
