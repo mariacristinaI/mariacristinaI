@@ -26,10 +26,10 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/mariacristinaI/mariacristinaI)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mariacristinai.github.io/mariacristinaI)
-[![Author](https://img.shields.io/badge/Author-Maria%20Cristina%20Iosub-blue.svg)](https://github.com/mariacristinaI)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-18%20March%202023-yellow.svg)](https://github.com/mariacristinaI?tab=repositories)
+[![Author](https://img.shields.io/badge/Author-Maria%20Cristina%20Iosub-blue.svg)](https://github.com/mariacristinaI/Web-Dev-Portofolio)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-4%20October%202024-yellow.svg)](https://github.com/mariacristinaI?tab=repositories)
 
-Here, you'll find a collection of websites and code snippets that I've created from scratch for testing various features and functionalities, unrelated to client projects. This website serves as an online showcase of my web projects and résumé.
+Here, you'll find a collection of websites and code snippets that I've created from scratch for testing various features and functionalities, unrelated to client projects. This website serves as an online showcase of my web projects and résumé. It is made with the Angular web framework.
 
 🎨 Additionally, it features a unique theme mode that allows you to switch between a cyberpunk color scheme and a Windows 95 OS-inspired theme, adding a touch of creativity and personal customization to your browsing experience. Explore and enjoy!
 
