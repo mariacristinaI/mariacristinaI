@@ -22,7 +22,7 @@
 <br />
 <hr />
 
-## :star: Showcase of my past projects: [**my portofolio**](https://maria-cristinaiosub.vercel.app/#projects)
+## :star: Showcase of my past projects: [**my portofolio**](https://maria-cristinaiosub.com/home)
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/mariacristinaI/mariacristinaI)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://mariacristinai.github.io/mariacristinaI)
